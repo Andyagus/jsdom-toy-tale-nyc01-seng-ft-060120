@@ -17,6 +17,10 @@ body {
   width: auto;
 }
 
+img{
+  width: 80%;
+}
+
 #toy-collection {
   margin: 2rem;
 }
